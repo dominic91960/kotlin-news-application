@@ -27,7 +27,7 @@ This repository contains a simple news application built with Kotlin and SQLite 
 1. **Clone the repository:**
 
     ```bash
-    [git clone https://github.com/dominic91960/kotlin-news-application.git
+    git clone https://github.com/dominic91960/kotlin-news-application.git
     cd news-application
     ```
 
